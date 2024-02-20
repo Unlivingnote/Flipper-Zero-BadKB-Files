@@ -11,6 +11,6 @@ GUI SPACE
 DELAY 150
 BACKSPACE
 DELAY 250
-STRING https://github.com/ClaraCrazy/Flipper-Xtreme
+STRING https://www.youtube.com/watch?v=SRczGJ-4M5g&pp=ygUQc2FuZHN0b3JtIGRhcnVkZQ%3D%3D
 DELAY 250
 ENTER
